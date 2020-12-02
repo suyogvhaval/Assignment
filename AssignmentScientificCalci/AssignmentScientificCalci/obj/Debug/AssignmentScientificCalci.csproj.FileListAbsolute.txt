@@ -1,0 +1,9 @@
+c:\users\test\documents\visual studio 2015\Projects\Assignments\AssignmentScientificCalci\AssignmentScientificCalci\bin\Debug\AssignmentScientificCalci.exe.config
+c:\users\test\documents\visual studio 2015\Projects\Assignments\AssignmentScientificCalci\AssignmentScientificCalci\bin\Debug\AssignmentScientificCalci.exe
+c:\users\test\documents\visual studio 2015\Projects\Assignments\AssignmentScientificCalci\AssignmentScientificCalci\bin\Debug\AssignmentScientificCalci.pdb
+c:\users\test\documents\visual studio 2015\Projects\Assignments\AssignmentScientificCalci\AssignmentScientificCalci\obj\Debug\AssignmentScientificCalci.Form1.resources
+c:\users\test\documents\visual studio 2015\Projects\Assignments\AssignmentScientificCalci\AssignmentScientificCalci\obj\Debug\AssignmentScientificCalci.Properties.Resources.resources
+c:\users\test\documents\visual studio 2015\Projects\Assignments\AssignmentScientificCalci\AssignmentScientificCalci\obj\Debug\AssignmentScientificCalci.csproj.GenerateResource.Cache
+c:\users\test\documents\visual studio 2015\Projects\Assignments\AssignmentScientificCalci\AssignmentScientificCalci\obj\Debug\AssignmentScientificCalci.exe
+c:\users\test\documents\visual studio 2015\Projects\Assignments\AssignmentScientificCalci\AssignmentScientificCalci\obj\Debug\AssignmentScientificCalci.pdb
+c:\users\test\documents\visual studio 2015\Projects\Assignments\AssignmentScientificCalci\AssignmentScientificCalci\obj\Debug\AssignmentScientificCalci.csprojResolveAssemblyReference.cache
