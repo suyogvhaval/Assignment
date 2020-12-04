@@ -1,0 +1,9 @@
+c:\users\test\documents\visual studio 2015\Projects\Assignments\Assignment8EmployeeFile\Assignment8EmployeeFile\bin\Debug\Assignment8EmployeeFile.exe.config
+c:\users\test\documents\visual studio 2015\Projects\Assignments\Assignment8EmployeeFile\Assignment8EmployeeFile\obj\Debug\Assignment8EmployeeFile.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2015\Projects\Assignments\Assignment8EmployeeFile\Assignment8EmployeeFile\obj\Debug\Assignment8EmployeeFile.Form1.resources
+c:\users\test\documents\visual studio 2015\Projects\Assignments\Assignment8EmployeeFile\Assignment8EmployeeFile\obj\Debug\Assignment8EmployeeFile.Properties.Resources.resources
+c:\users\test\documents\visual studio 2015\Projects\Assignments\Assignment8EmployeeFile\Assignment8EmployeeFile\obj\Debug\Assignment8EmployeeFile.csproj.GenerateResource.Cache
+c:\users\test\documents\visual studio 2015\Projects\Assignments\Assignment8EmployeeFile\Assignment8EmployeeFile\bin\Debug\Assignment8EmployeeFile.exe
+c:\users\test\documents\visual studio 2015\Projects\Assignments\Assignment8EmployeeFile\Assignment8EmployeeFile\bin\Debug\Assignment8EmployeeFile.pdb
+c:\users\test\documents\visual studio 2015\Projects\Assignments\Assignment8EmployeeFile\Assignment8EmployeeFile\obj\Debug\Assignment8EmployeeFile.exe
+c:\users\test\documents\visual studio 2015\Projects\Assignments\Assignment8EmployeeFile\Assignment8EmployeeFile\obj\Debug\Assignment8EmployeeFile.pdb
